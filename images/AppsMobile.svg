@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 512 512">
+<style type="text/css">
+<![CDATA[
+    .st0{fill:#FFA726;}
+    .st1{fill:#FFFFFF;}
+]]>
+</style>
+<rect id="handheld_bg_500" class="st0" width="512" height="512"/>
+<g id="handheld">
+    <rect x="139.6708984" y="99" class="st1" width="232.6572266" height="314"/>
+    <rect x="150.5507813" y="114.722168" class="st0" width="211.0400391" height="274.1821289"/>
+    <path class="st0" d="M279.9619141,401.703125c0,1.7275391-1.3994141,3.125-3.1279297,3.125h-41.5258789
+        c-1.7290039,0-3.1279297-1.3974609-3.1279297-3.125l0,0c0-1.7294922,1.4008789-3.1289063,3.1279297-3.1289063h41.5258789
+        C278.5625,398.5742188,279.9619141,399.9746094,279.9619141,401.703125L279.9619141,401.703125z"/>
+</g>
+</svg>
